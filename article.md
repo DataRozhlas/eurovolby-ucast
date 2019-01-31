@@ -9,7 +9,7 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 
 
-<wide><section class="ep_election_results_app" data-config='{"state":{"name":"turnout","params":[{"year":2014},{"division":"CZ"},{"view":"map"}]}}'></section><script defer src="http://www.europarl.europa.eu/website/election-results/js/ep_electionresults_app.js"></script></wide>
+<wide><section class="ep_election_results_app" data-config='{"state":{"name":"turnout","params":[{"year":2014},{"division":"CZ"},{"view":"map"}]}}'></section><script defer src="https://www.europarl.europa.eu/website/election-results/js/ep_electionresults_app.js"></script></wide>
 
 ### Volby do Evropského parlamentu
 

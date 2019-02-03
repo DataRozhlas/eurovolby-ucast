@@ -1,14 +1,5 @@
 #graf2 {
 	min-width: 310px;
-	max-width: 1200px;
-	height: 60vh;
+	height: 500px;
 	margin: 0 auto
-}
-
-
-@media only screen and (max-width: 880px) { 
-	#graf2 {
-	margin: auto 20px auto 0px;
-	float: left;
-	}
 }

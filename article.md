@@ -4,7 +4,7 @@ published: "4. února 2019"
 coverimg: 
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
-libraries: [highcharts, "https://code.highcharts.com/modules/series-label.js"] #jquery, d3, highcharts, datatables
+libraries: ["https://code.highcharts.com/highcharts.js", "https://code.highcharts.com/modules/series-label.js"] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 

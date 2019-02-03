@@ -23,7 +23,7 @@ Highcharts.chart('graf2', {
         layout: 'vertical',
         align: 'right',
         verticalAlign: 'top',
-        y:40
+        y: 30
     },
     credits: {
         text: 'Zdroj dat: Evropský parlament',
@@ -159,7 +159,23 @@ Highcharts.chart('graf2', {
                 legend: {
                     layout: 'horizontal',
                     align: 'center',
-                    verticalAlign: 'bottom'
+                    verticalAlign: 'bottom',
+                    y: 0
+                },
+                xAxis: {
+                    title: null
+                },
+                credits: {
+                    enabled: false
+                }
+            }
+        }, {
+            condition: {
+                maxWidth: 800
+            },
+            chartOptions: {
+                legend: {
+                    y: 60
                 }
             }
         }]

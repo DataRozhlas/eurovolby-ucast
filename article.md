@@ -45,7 +45,7 @@ Mezi nejdůležitější témata, která by se měla řešit během předvolebn�
 
 „Když si všechny strany dají do kampaně, že budou hájit národní zájmy, tak volič těžko pozná, kdo je hájí nejvíc a co to vlastně znamená. Dominovalo to v minulých volbách, je to ale vágní. Strany by měly bojovat za určitou myšlenku, třeba snížení byrokracie nebo zdanění velkých firem,“ popsal.
 
-Problémem je podle něj i nízké povědomí, o čem vlastně Evropský parlament rozhoduje. S tím souhlasí také politolog z Univerzity Karlovy Kamil Švec. „Většina lidí v tom má zmatek, volby jsou tak pro ně nezajímavé,“ řekl pro iROZHLAS.cz.
+Problémem je podle něj i nízké povědomí, o čem vlastně Evropský parlament rozhoduje. S tím souhlasí také politolog a analytik České televize Kamil Švec. „Většina lidí v tom má zmatek, volby jsou tak pro ně nezajímavé,“ řekl pro iROZHLAS.cz.
 
 Na osvětě by podle něj měli zapracovat především stávající europoslanci. „V české politice nejsou příliš vidět. Jsou tak trochu schizofrenní - musí pracovat v europarlamentu a zároveň vykazovat výsledky doma, aby ukázali smysl své práce. Ne všichni se to ale ještě naučili,“ vysvětlil.
 
